@@ -1,3 +1,29 @@
+# ai_quant_trade
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A one-stop AI stock trading platform for learning, simulation and live trading, covering strategies, LLMs, factor mining, ML/DL/RL and HFT.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+股票 AI 操盘手一站式平台，覆盖学习、模拟与实盘，含股票知识、策略、大模型、因子挖掘、机器学习与高频交易。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <img src=".README_images/LOGO_NEW.png" width="260" height="270" alt="AI Quantitative Trading Bot" />
